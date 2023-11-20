@@ -38,7 +38,7 @@ Label1.place(x=210,y=30)
 
 Label2 = Label(main, text = "เงินดาวน์", width=20, fg = "white", bg = "black", font=('Helvetica', 10, 'bold'))
 Label2.place(x=210,y=80)
-A
+
 Label3 = Label(main, text = "ดอกเบี้ย(ร้อบละปี)", width=20, fg = "white", bg = "black", font=('Helvetica', 10, 'bold'))
 Label3.place(x=210,y=130)
 
